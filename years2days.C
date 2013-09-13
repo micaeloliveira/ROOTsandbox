@@ -1,4 +1,4 @@
-//Simple example of ROOT macro
+//Simple example of ROOT macro that allows the conversion of a given time format
 
 void years2days(){
   
